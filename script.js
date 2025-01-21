@@ -50,7 +50,7 @@ function loadingAnimation(){
     });
     
     tl.from(".hero",{
-        y:120,
+        y:140,
         stagger:0.2
     })
 }
